@@ -1,0 +1,45 @@
+<!-- include the sentiment and magnitude -->
+<table class="table">
+    <tbody>
+        <tr>
+            <td rowspan="2">
+                <h2>{{sourceName}}:</h2>
+                <p>{{sourceOverview}}</p>
+            </td>
+            <td>
+                <h4>German Sentiment: {{germSent}}</h4></td>
+            <td>
+                <h4>English Sentiment: {{engSent}}</h4></td>
+        </tr>
+        <tr>
+            <td>
+                <h4>German Magnitude: {{germMag}}</h4></td>
+            <td>
+                <h4>English Magnitude: {{engMag}}</h4></td>
+        </tr>
+    </tbody>
+</table>
+<!-- iterate through each of the articles, present in tabular form -->
+{{#articles}}
+<table class="table">
+    <tbody>
+        <tr>
+            <td rowspan="2"><img src={{urlToImage}} class="rounded img-responsive" width="200"></td>
+            <td>
+                <h5>{{title}}</h5></td>
+            <td>
+                <h5>{{transTitle}}</h5></td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    {{description}}
+                </p>
+            </td>
+            <td>
+                <p>{{transDes}}</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+{{/articles}}

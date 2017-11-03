@@ -1,0 +1,21 @@
+{
+  "name": "cab432ass",
+  "version": "1.0.0",
+  "description": "assignment 1",
+  "main": "test.js",
+  "dependencies": {
+    "@google-cloud/language": "^0.11.0",
+    "@google-cloud/translate": "^1.0.0",
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "hbs": "^4.0.1",
+    "newsapi": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Hardy",
+  "license": "ISC"
+}
