@@ -1,1 +1,3 @@
-./app/keys
+keys/
+node_modules/
+build/

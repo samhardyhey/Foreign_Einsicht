@@ -1,21 +1,29 @@
 {
-  "name": "cab432ass",
-  "version": "1.0.0",
-  "description": "assignment 1",
-  "main": "test.js",
+  "name": "express-react-starter",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
-    "@google-cloud/language": "^0.11.0",
-    "@google-cloud/translate": "^1.0.0",
-    "bluebird": "^3.5.0",
-    "body-parser": "^1.17.2",
-    "express": "^4.15.4",
-    "hbs": "^4.0.1",
-    "newsapi": "^2.0.1"
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.6.9",
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "morgan": "^1.9.0",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "react-router-dom": "^4.2.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "concurrently": "^3.5.1",
+    "nodemon": "^1.17.1",
+    "react-scripts": "1.0.10"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "concurrently \"react-scripts start\" \"nodemon server/server.js\"",
+    "build": "react-scripts build && mv build server",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
   },
-  "author": "Sam Hardy",
-  "license": "ISC"
+  "proxy": "http://localhost:3001"
 }
