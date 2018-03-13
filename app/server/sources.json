@@ -1,0 +1,52 @@
+{
+    "spiegel-online":
+    {
+        "name": "Der Spiegel",
+        "bio": "Der Spiegel is a German weekly news magazine published in Hamburg.It is one of Europe's largest publications of its kind, with a weekly circulation of 840,000. Der Spiegel is known in German-speaking countries mostly for its investigative journalism. It has played a key role in uncovering many political scandals such as the Spiegel scandal in 1962 and the Flick affair in the 1980s. According to The Economist, Der Spiegel is one of continental Europe's most influential magazines"
+    },
+    "bild":
+    {
+        "name": "Bild",
+        "bio": "The Bild newspaper (or Bild-Zeitung, literally Picture Newspaper) is a German tabloid published by Axel Springer AG. The paper is published from Monday to Saturday; on Sundays, its sister paper Bild am Sonntag is published instead, which has a different style and its own editors. Bild is tabloid in style but broadsheet in size. It is the best-selling non-Asian newspaper and has the eight-largest circulation worldwide. Bild has been described as 'notorious for its mix of gossip, inflammatory language, and sensationalism' and as having a huge influence on German politicians."
+    },
+    "der-tagesspiegel":
+    {
+        "name": "Der Tagesspiegel",
+        "bio": "Der Tagesspiegel (meaning The Daily Mirror) is a German daily newspaper. It has regional correspondent offices in Washington D.C. and Potsdam. It is the only major newspaper in the capital to have increased its circulation—now 148,000—since reunification."
+    },
+    "die-zeit":
+    {
+        "name": "Die Ziet",
+        "bio": "Die Zeit (German pronunciation: literally 'The Time') is a German national weekly newspaper published in Hamburg in north Germany"
+    },
+    "gruenderszene":
+    {
+        "name": "Gruenderszene",
+        "bio": "Gruenderszene is the German-speaking online magazine for the digital industry in Germany. Vertical Media is the publishing house behind the magazine which is based in Berlin. Gruenderszene has become a major player in the online coverage of the startup industry in Germany, it delivers news and articles about the German internet, web and tech scene."
+    },
+    "handelsblatt":
+    {
+        "name": "Handelsblatt",
+        "bio": "The Handelsblatt (literally 'commerce paper' in English) is a leading German-language business newspaper published in Düsseldorf by Verlagsgruppe Handelsblatt."
+    },
+    "wirtshafts-woche":
+    {
+        "name": "Wirtshafts-woche",
+        "bio": "Wirtschaftswoche is a German weekly business news magazine published in Germany. 'Wirtschaft' means economy (including business) and 'Woche' is week. The magazine provides business- and economy-related news. Its target audience is managers and business people."
+    },
+    "focus":
+    {
+        "name": "Focus",
+        "bio": "Focus is a German-language news magazine published by Hubert Burda Media. Established in 1993 as an alternative to the Spiegel weekly news magazine, since 2015 the editorial staff has been headquartered in Germany's capital of Berlin. Alongside Spiegel and Stern, Focus is one of the three most widely circulated German weeklies"
+    },
+    "wired-de":
+    {
+        "name": "Wired De",
+        "bio": "Wired is a monthly American magazine, published in print and online editions, that focuses on how emerging technologies affect culture, the economy, and politics. Owned by Condé Nast, it is headquartered in San Francisco, California, and has been in publication since March/April 1993. Several spin-offs have been launched, including Wired UK, Wired Italia, Wired Japan, and Wired Germany. In its earliest colophons, Wired credited Canadian media theorist Marshall McLuhan as its 'patron saint.' From its beginning, the strongest influence on the magazine's editorial outlook came from techno-utopian cofounder Stewart Brand and his associate Kevin Kelly"
+    },
+    "t3n":
+    {
+        "name": "T3N",
+        "bio": "T3n Magazin offers an online platform that enables its users to search and find job opportunities related to technology and development, marketing, project management, design, and PR and editing. T3n Magazin was founded in 2005 by Andreas Lenz. It is headquartered in Hanover, Germany."
+    }
+}

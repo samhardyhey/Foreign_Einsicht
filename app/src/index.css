@@ -1,11 +1,11 @@
 body {
-    background-color: #A9CCE3;
+    background-color: #7395AE;
     padding: 20px;
     margin: 0;
 }
 
 ul.header li {
-    display: inline;
+    display: inline-block;
     list-style-type: none;
     margin: 0;
 }
@@ -17,7 +17,7 @@ ul.header {
 
 ul.header li a {
     color: #FFF;
-    padding: 20px;
+    padding: 25px;
     display: inline-block;
 }
 
@@ -36,5 +36,5 @@ ul.header li a {
 }
 
 .active {
-    background-color: #0099FF;
+    background-color: #557A95;
 }
